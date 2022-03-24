@@ -1,0 +1,19 @@
+{
+  "name": "lumatics.io",
+  "version": "1.0.0",
+  "description": "Website for lumatics.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunderson/lumatics.io.git"
+  },
+  "author": "Patrick Gunderson <pat@theorigin.net>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gunderson/lumatics.io/issues"
+  },
+  "homepage": "https://github.com/gunderson/lumatics.io#readme"
+}
